@@ -62,7 +62,7 @@ a{
 .intro{
     width: 100%;
     background-color: rgb(196, 2, 41);
-    background: url(img/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGYtczgyLXRkLTExNTA2XzEuanBn.jpg);
+background: url(img/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGYtczgyLXRkLTExNTA2XzEuanBn.webp);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -184,7 +184,7 @@ border-radius: 5px;
 /* projects */
 .projects{
     width: 100%;
-    background: url(img/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGYtczgyLXRkLTExNTA2XzEuanBn.jpg);
+background: url(img/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGYtczgyLXRkLTExNTA2XzEuanBn.webp);
     background-size: cover;
     background-position: center;
     display: flex;
